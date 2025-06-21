@@ -1,3 +1,4 @@
+<!-- buat halaman admin -->
 <template>
   <div class="container my-5">
     <h2 class="mb-4">Daftar Alat Outdoor</h2>
